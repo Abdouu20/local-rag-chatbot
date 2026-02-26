@@ -6,7 +6,7 @@
 
 > **A production-ready, 100% local Retrieval-Augmented Generation (RAG) chatbot** that answers questions based on your documents. No cloud APIs, no data leaks, complete privacy.
 
-![Demo](assets/demo-screenshot.png)
+<img width="1611" height="930" alt="Screenshot 2026-02-26 211053" src="https://github.com/user-attachments/assets/3fa9ce6b-2407-4a85-865e-012e7b1ec6de" />
 
 ---
 
